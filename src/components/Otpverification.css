@@ -1,0 +1,27 @@
+.btn-custom{
+  background-color: #552583;
+  height:50px;
+  width: 375px;
+}
+.font-sz{
+  font-size: 14px;
+  color: #101920;
+  font-family: Roboto;
+}
+.text-sz{
+  font-size: 38px;
+  color: #552583;
+  font-family: Roboto;
+  font-weight: bold;
+}
+.card-style{
+ width: 414px;
+ height: 334px;
+}
+.each-box{
+  width:78.54px;
+  height: 77.21px
+}
+.btn-color{
+  color: #101920;
+}

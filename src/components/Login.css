@@ -1,0 +1,47 @@
+.small-text {
+  font-size: 1px;
+  font: 1em sans-serif;
+}
+
+.change-color{
+  color: #552583;
+}
+
+.custom-card{
+  padding-right: 1px;
+}
+
+.btn-custom{
+  background-color: #552583;
+  color: aliceblue;
+  width: 95%;
+  margin-top: 15px;
+  cursor: pointer;
+}
+
+.btn-custom:hover {
+  background-color: #552583;
+}
+
+.phone-code input {
+  width: 95%;
+  height: 30px;
+  margin-top: 10px;
+  border: 1px solid rgb(21, 20, 20);
+  padding: 25px;
+  border-radius: 10px;
+}
+.phone-code:hover {
+  border-color: rgb(20, 20, 20);
+  height: 40px;
+  width: 100px;
+}
+.phone-code {
+  width: 5%;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  overflow: hidden; 
+  transition: all 0.3s ease; 
+}
+
