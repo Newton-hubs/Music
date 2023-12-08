@@ -59,7 +59,7 @@ const Login = () => {
                   />
                 </div>
                 {!valid && <p className="text-danger">Please enter a valid phone number.</p>}
-                <button type="submit" className="btn btn-custom">
+                <button type="submit" className="btn btn-cus">
                   Sign In
                 </button>
               </form>
